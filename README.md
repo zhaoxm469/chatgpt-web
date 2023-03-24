@@ -1,3 +1,7 @@
+# 关于我
+科技互联网领域自媒体博主，所有视频首发于**Youtube：**[【科技小飞哥】](https://www.youtube.com/@techxiaofei)，欢迎关注。加入**粉丝群：**[【科技小飞哥的粉丝群】](https://t.me/+m0d7_ft5Utw2MzY1)
+![wechat_mp_foot.png](./docs/wechat_mp_foot.png)
+
 # ChatGPT Web
 
 <div style="font-size: 1.5rem;">
