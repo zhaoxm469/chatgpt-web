@@ -87,8 +87,8 @@ function handleRegenerate() {
     :class="[{ 'flex-row-reverse': inversion }]"
   >
     <div
-      class="flex items-center justify-center flex-shrink-0 h-12 w-12 rounded-md basis-8 bg-[#25C684] dark:bg-[#101014]"
-      :class="[inversion ? 'ml-2' : 'mr-2']"
+      class="flex items-start justify-center flex-shrink-0 h-12 w-12 rounded-md basis-8 "
+      :class="[inversion ? 'ml-2' : 'mr-2 bg-[#25C684]']"
     >
       <AvatarComponent :image="inversion" class="w-12 h-12 flex item-center justify-center" />
     </div>
